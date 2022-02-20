@@ -1,1 +1,1 @@
-html-validate *.index
+html-validate *.html
